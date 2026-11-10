@@ -1,4 +1,4 @@
-# API Loja de Sapatos – Calce Bem 👟
+# API Loja de Sapatos 👟
 
 ## Projeto
 
