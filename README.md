@@ -85,7 +85,7 @@ Durante os testes, foram realizadas operações de cadastro, listagem, consulta 
 
 ## 📝 Resumo final
 
-A API Loja de Sapatos – Calce Bem foi desenvolvida com o objetivo de colocar em prática os conhecimentos adquiridos sobre criação de APIs e integração com bancos de dados não relacionais.
+A atividade foi desenvolvida com o objetivo de colocar em prática os conhecimentos adquiridos sobre criação de APIs e integração com bancos de dados não relacionais.
 
 Por meio do código, é possível realizar o gerenciamento dos produtos de uma loja de calçados, desde o cadastro de novas mercadorias até a consulta, alteração e exclusão das informações armazenadas.
 
